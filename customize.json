@@ -1,0 +1,23 @@
+{
+  "greeting": "Chào",
+  "name": "Vy Oanh",
+  "greetingText": "Nhân tiện, tôi thực sự thích tên của em!",
+  "wishText": "Mong nhiều điều hạnh phúc luôn đến với em! ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "Hôm nay là sinh nhật em !!! :D",
+  "textInChatBox": "Chúc mừng sinh nhật!! Lời chúc sinh nhật blah blah...",
+  "sendButtonLabel": "Send",
+  "text2": "Đó là điều anh định làm .",
+  "text3": "Nhưng rồi anh dừng lại.",
+  "text4": "Anh nhận ra, anh muốn làm điều gì đó",
+  "text4Adjective": "Đặt biệt",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "em là người đặt biệt",
+  "smiley": ":)",
+  "bigTextPart1": "Vì ",
+  "bigTextPart2": "Vậy",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Được rồi, bây giờ hãy cho anh biết em có thích nó không.",
+  "replayText": "Hoặc bấm vào nếu bạn muốn xem lại.",
+  "outroSmiley": ":)"
+}
